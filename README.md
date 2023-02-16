@@ -4,7 +4,7 @@
 
 |    Activity    | Time Spent | Things Learned        | Problem Faced                                                                                |
 |:--------------:|:----------:|-----------------------|----------------------------------------------------------------------------------------------|
-| Progress Sheet |    2 hrs   | Track Sheet, function | - [x] Add to do list <br>- [ ] How to add same formula to the whole column                       |
+| Progress Sheet |    2 hrs   | Track Sheet, function | <ul>- <li>[x] Add to do list </li> <li>- [ ] How to add same formula to the whole column </li></ul>                      |
 | Git            | 2.1 hrs    | Reminiscing Git       | - [x] How to work in an existing git repository <br>- [ ] What happens if I change the location. |
 
 | Item        | Description                                                |
