@@ -8,7 +8,7 @@
 | Git            | 2.1 hrs    | Reminiscing Git       | <ul><li>[x] How to work in an existing git repository</li> <li>[ ] What happens if I change the location of a folder.</li></ul> |
 
 
-## Goals for Tomorrow
+### Goals for Tomorrow
 - Waste less time on the phone
 - Recapturing the git a little more
 - 
