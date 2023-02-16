@@ -4,8 +4,8 @@
 
 |    Activity    | Time Spent | Things Learned        | Problem Faced                                                                                |
 |:--------------:|:----------:|-----------------------|----------------------------------------------------------------------------------------------|
-| Progress Sheet |    2 hrs   | Track Sheet, function | <ul><li>[x] Add to do list </li> <li>[ ] How to add same formula to the whole column</li></ul>                      |
-| Git            | 2.1 hrs    | Reminiscing Git       | <ul>[x] How to work in an existing git repository <br>- [ ] What happens if I change the location.</ul> |
+| Progress Sheet |    2 hrs   | Track Sheet, function | <ul><li>[x] Add to do list</li> <li>[ ] How to add same formula to the whole column</li></ul>                      |
+| Git            | 2.1 hrs    | Reminiscing Git       | <ul><li>[x] How to work in an existing git repository</li> <li>[ ] What happens if I change the location.</li></ul> |
 
 | Item        | Description                                                |
 | ----------- | ---------------------------------------------------------- |
