@@ -1,8 +1,8 @@
-<center>
+<div align="center">
 
 # Daily Progress Log
 
-</center>
+</div>
 
 ## February 16, 2023
 
