@@ -9,7 +9,7 @@
 | Activity | Time Spent | Things Learned | Problem Faced |
 |:--------:|:----------:|----------------|---------------|
 | Python Data-camp | 1.4 hrs | <ul><li>[Dictionaries](https://shorturl.at/kxMOP)</li></ul> | |
-| Andrew Ng | 2.3 hrs | <ul><li>Supervised learning process</li><li>Model function</li><li>Univariate linear regression</li><li>[Straight line through the data lab](https://shorturl.at/iORY1)</li></ul> | <ul><li> [ ] Linear regression model training and estimated target</li></ul> |
+| Andrew Ng | 2.3 hrs | <ul><li>Supervised learning process</li><li>Model function</li><li>Univariate linear regression</li><li>[Straight line through the data lab](https://shorturl.at/zKNW6)</li></ul> | <ul><li> [ ] Linear regression model training and estimated target</li></ul> |
 
 ### Goals for Tomorrow
 - 
