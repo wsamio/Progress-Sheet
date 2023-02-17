@@ -4,7 +4,7 @@
 
 | Activity | Time Spent | Things Learned | Problem Faced |
 |:--------:|:----------:|----------------|---------------|
-| Python Data-camp | 1.4 hrs | [Dictionaries](shorturl.at/kxMOP) | |
+| Python Data-camp | 1.4 hrs | [Dictionaries](https://shorturl.at/kxMOP) | |
 
 ## February 15, 2023
 
