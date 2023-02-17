@@ -1,4 +1,6 @@
+<center>
 # Daily Progress Log
+</center>
 
 ## February 16, 2023
 
@@ -6,6 +8,9 @@
 |:--------:|:----------:|----------------|---------------|
 | Python Data-camp | 1.4 hrs | <ul><li>[Dictionaries](https://shorturl.at/kxMOP)</li></ul> | |
 | Andrew Ng | | | |
+
+### Goals for Tomorrow
+- 
 
 ## February 15, 2023
 
