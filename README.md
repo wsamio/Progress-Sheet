@@ -12,7 +12,9 @@
 | Andrew Ng | 2.3 hrs | <ul><li>Supervised learning process</li><li>Model function</li><li>Univariate linear regression / Linear regression with one variable</li><li>[Straight line through the data lab](https://shorturl.at/zKNW6)</li></ul> | <ul><li> [ ] Linear regression model training and estimated target</li></ul> |
 
 ### Goals for Tomorrow
-- 
+- Understanding Model representation lab, eventually disscuss it with Safaet
+- Start linear algebra from Kahanacademy
+- Start Panda package tutorial
 
 ## February 15, 2023
 
