@@ -54,11 +54,13 @@
 ## Overall Learned
 
 ### Programming
-- skdfjl
-    - askdjh
-- skdh
+- Python
+    - Introduction to Python
+    - NumPy
+    - Matplotlib
+    - Pandas
+- Markdown
 
-### Algotithm
-
+### Algorithm
 - [Gradient Descent](https://www.youtube.com/watch?v=sDv4f4s2SB8)
--
+- Linear Regression
