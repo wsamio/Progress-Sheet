@@ -16,6 +16,8 @@
 - Start linear algebra from Kahanacademy
 - Start Panda package tutorial
 
+
+<br><br><br>
 ## February 15, 2023
 
 |    Activity    | Time Spent | Things Learned        | Problem Faced                                                                                |
