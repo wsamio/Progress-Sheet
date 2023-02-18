@@ -2,9 +2,19 @@
 
 # Daily Progress Log
 
+<dev>
+
+## February 18, 2023
+
+| Activity | Time Spent | Things Learned | Problem Faced |
+|:--------:|:----------:|----------------|---------------|
+
+
 </div>
 
-## February 16, 2023
+
+
+## February 17, 2023
 
 | Activity | Time Spent | Things Learned | Problem Faced |
 |:--------:|:----------:|----------------|---------------|
@@ -18,7 +28,8 @@
 
 
 <br><br><br>
-## February 15, 2023
+
+## February 16, 2023
 
 |    Activity    | Time Spent | Things Learned        | Problem Faced                                                                                |
 |:--------------:|:----------:|-----------------------|----------------------------------------------------------------------------------------------|
@@ -30,3 +41,17 @@
 - Waste less time on the phone
 - Recapture the git a little more
 - Implement linear regression in Jupyter Notebook
+
+<br><br>
+
+## Overall Learned
+
+### Programming
+- skdfjl
+    - askdjh
+- skdh
+
+### Algotithm
+
+- [Gradient Descent](https://www.youtube.com/watch?v=sDv4f4s2SB8)
+-
