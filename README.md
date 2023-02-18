@@ -13,8 +13,10 @@
 | Machine Learning Project | 5.8 hrs |<ul><li>[Linear Regression Implementation](https://shorturl.at/chktC)</li><li>Univariate implementation</li><li>Gradient Descent algorithm</li></ul> | <ul> <li>[ ] Line that is supposed to go through the points doesn't seem right</li>  </ul> |
 
 ### Goals for Tomorrow
-- Beautify the project with details about Linear Regression theory.
-
+- Beautify the project with details about Linear Regression theory
+- Spend less time on a project
+- Use time efficiently
+- Starting Khanacademy
 
 
 <br><br><br>
