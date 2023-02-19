@@ -6,6 +6,19 @@
 
 <br>
 
+## February 19, 2023
+
+| Activity | Time Spent | Things Learned | Problem Faced |
+|:--------:|:----------:|----------------|---------------|
+| Andrew Ng | 1.7 hrs | <ul><li>Cost Function</li><li>Squared Error Cost Function</li><li>Const Function Intuition</li></ul> | |
+
+### Goals for Tomorrow
+- Use less time lying around
+- Starting Khanacademy because I am falling behind
+- Do more data-camp
+
+<br><br><br>
+
 ## February 18, 2023
 
 | Activity | Time Spent | Things Learned | Problem Faced |
