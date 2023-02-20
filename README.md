@@ -6,6 +6,19 @@
 
 <br>
 
+## February 20, 2023
+
+| Activity | Time Spent | Things Learned | Problem Faced |
+|:--------:|:----------:|----------------|---------------|
+| Python Data-camp | 1.4 hrs |<ul><li>Pandas</li>DataFrame<li></li>CSV File reading</li><li>loc</li><li>iloc</li></ul>| |
+| | | | |
+
+### Goals for Tomorrow
+-
+
+
+<br><br><br>
+
 ## February 19, 2023
 
 | Activity | Time Spent | Things Learned | Problem Faced |
