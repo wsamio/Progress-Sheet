@@ -6,6 +6,17 @@
 
 <br>
 
+## February 21, 2023
+
+| Activity | Time Spent | Things Learned | Problem Faced |
+|:--------:|:----------:|----------------|---------------|
+
+### Goals for Tomorrow
+-
+-
+
+<br><br><br>
+
 ## February 20, 2023
 
 | Activity | Time Spent | Things Learned | Problem Faced |
@@ -92,3 +103,7 @@
 ### Algorithm
 - [Gradient Descent](https://www.youtube.com/watch?v=sDv4f4s2SB8)
 - Linear Regression
+
+### Projects
+- Student Score Prediction using Linear Regression
+- Rock vs Mine Prediction using Logistic Regression
