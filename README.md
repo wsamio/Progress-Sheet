@@ -21,7 +21,7 @@
 
 | Activity | Time Spent | Things Learned | Problem Faced |
 |:--------:|:----------:|----------------|---------------|
-| Python Data-camp | 1.4 hrs |<ul><li>Pandas</li>DataFrame<li></li>CSV File reading</li><li>loc</li><li>iloc</li></ul>| |
+| Python Data-camp | 1.4 hrs |<ul><li>Pandas</li>DataFrame</li><li>CSV File reading</li><li>loc</li><li>iloc</li></ul>| |
 | Machine Learning Project| 0.75 hrs | <ul><li>Rock vs Mine Prediction</li><li>Working with Big Datasets</li></ul> | |
 
 ### Goals for Tomorrow
