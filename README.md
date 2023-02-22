@@ -6,14 +6,28 @@
 
 <br>
 
+## February 22, 2023
+
+| Activity | Time Spent | Things Learned | Problem Faced |
+|:--------:|:----------:|----------------|---------------|
+| Andrew Ng | 2.4 hrs | <ul><li>Cost Function models in 3d</li><li>Contour Plot of Cost Function</li><li>Finding Minimum value of cost function</li><li>Inital guess effect of the parameters of the cost function</li></ul> | |
+
+### Goals for Tomorrow
+- Simply avoid Phone
+- Start Module 2 of Andrew Ng and go through it fast
+
+<br><br><br>
+
 ## February 21, 2023
 
 | Activity | Time Spent | Things Learned | Problem Faced |
 |:--------:|:----------:|----------------|---------------|
+| Machine Learning Project | 1.4 hrs | <ul><li>Rock vs Mine Prediction part 2</li><li>Train and Test data splitting</li><li>Training LogisticRegression Model</li><li>Checking a Model's accuracy</li><li>Making of a Predictive System</li></ul> |<ul><li> [ ] Logictic Regression Model Theory</li></ul>|
+| Mid Preparation | Ꝏ | | |
 
 ### Goals for Tomorrow
--
--
+- Finish the Module 1 of Andrew Ng
+- Explore beginner projects to do later
 
 <br><br><br>
 
@@ -28,7 +42,6 @@
 - Resume Python Data-camp
 - Resume Rock vs Mine Project
 - Finish the first week of Andrew Ng
-
 
 <br><br><br>
 
