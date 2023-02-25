@@ -6,6 +6,18 @@
 
 <br>
 
+
+
+## February 23, 2023
+
+| Activity | Time Spent | Things Learned | Problem Faced |
+|:--------:|:----------:|----------------|---------------|
+
+### Goals for Tomorrow
+- 
+
+<br><br><br>
+
 ## February 22, 2023
 
 | Activity | Time Spent | Things Learned | Problem Faced |
