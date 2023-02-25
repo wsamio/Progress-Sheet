@@ -12,9 +12,11 @@
 
 | Activity | Time Spent | Things Learned | Problem Faced |
 |:--------:|:----------:|----------------|---------------|
+| Andrew Ng | 1.2 hrs | <ul><li>Gradient Descent Intuition</li><li>Learning Rate</li><li>Choosing better Learning Rate</li><li>Local Minimum</li><li>Global Minimum</li><li>Reaching Local Minimum</li><li>Convex Function</li></ul> | |
+| Mid Preparation | Ꝏ | | |
 
 ### Goals for Tomorrow
-- 
+- Continue Mid and Progress as much as I can.
 
 <br><br><br>
 
