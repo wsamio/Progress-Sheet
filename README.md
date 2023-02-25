@@ -6,7 +6,16 @@
 
 <br>
 
+## February 24, 2023
 
+| Activity | Time Spent | Things Learned | Problem Faced |
+|:--------:|:----------:|----------------|---------------|
+| Mid Preparation | Ꝏ | | |
+
+### Goals for Tomorrow
+- Continue Mid and Progress as much as I can.
+
+<br><br><br>
 
 ## February 23, 2023
 
