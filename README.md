@@ -13,8 +13,8 @@
 | Andrew Ng | 1.1 hrs | <ul><li>Cost Function Implementation</li><li>Gradient Descent Implementation for one Featur</li><li>Multiple Linear Regression / Linear Regression with Multiple Features</li></ul> | |
 
 ### Goals for Tomorrow
-- Continue Mid and Progress as much as I can.
-- Finish Andrew Ng till Gradient Descent for Multiple Linear Regression.
+- Continue Mid & Progress as much as I can.
+- Finish vectorization & Gradient Descent for Multiple Linear Regression.
 
 <br><br><br>
 
@@ -25,7 +25,7 @@
 | Mid Preparation | Ꝏ | | |
 
 ### Goals for Tomorrow
-- Continue Mid and Progress as much as I can.
+- Continue Mid & Progress as much as I can.
 
 <br><br><br>
 
@@ -37,7 +37,7 @@
 | Mid Preparation | Ꝏ | | |
 
 ### Goals for Tomorrow
-- Continue Mid and Progress as much as I can.
+- Continue Mid & Progress as much as I can.
 
 ## February 24, 2023
 
@@ -46,7 +46,7 @@
 | Mid Preparation | Ꝏ | | |
 
 ### Goals for Tomorrow
-- Continue Mid and Progress as much as I can.
+- Continue Mid & Progress as much as I can.
 
 <br><br><br>
 
@@ -58,7 +58,7 @@
 | Mid Preparation | Ꝏ | | |
 
 ### Goals for Tomorrow
-- Continue Mid and Progress as much as I can.
+- Continue Mid & Progress as much as I can.
 
 <br><br><br>
 
