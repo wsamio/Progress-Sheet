@@ -6,6 +6,27 @@
 
 <br>
 
+## February 26, 2023
+
+| Activity | Time Spent | Things Learned | Problem Faced |
+|:--------:|:----------:|----------------|---------------|
+| Mid Preparation | Ꝏ | | |
+
+### Goals for Tomorrow
+- Continue Mid and Progress as much as I can.
+
+<br><br><br>
+
+## February 24, 2023
+
+| Activity | Time Spent | Things Learned | Problem Faced |
+|:--------:|:----------:|----------------|---------------|
+| Model Deployment | 2 hrs | <ul><li>Introduction to the Deployment of Machine Learning Model</li><li>Exporting the Model from Jupyter Notebook as .pkl file</li><li>Deploy it on Local Machine</li></ul>| <ul><li> [ ] Deploying a Model on GitHub Pages </li></ul>|
+| Mid Preparation | Ꝏ | | |
+
+### Goals for Tomorrow
+- Continue Mid and Progress as much as I can.
+
 ## February 24, 2023
 
 | Activity | Time Spent | Things Learned | Problem Faced |
