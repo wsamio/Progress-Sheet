@@ -191,3 +191,6 @@
 ### Projects
 - Student Score Prediction using Linear Regression (Univariate)
 - Rock vs Mine Prediction using Logistic Regression
+
+### Machine Learning Model Deploying
+-
