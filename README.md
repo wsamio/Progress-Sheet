@@ -185,7 +185,9 @@
 ### Algorithm
 - [Gradient Descent](https://www.youtube.com/watch?v=sDv4f4s2SB8)
 - Linear Regression
+    - For Single Variable (Univariate)
+    - Multiple Features
 
 ### Projects
-- Student Score Prediction using Linear Regression
+- Student Score Prediction using Linear Regression (Univariate)
 - Rock vs Mine Prediction using Logistic Regression
