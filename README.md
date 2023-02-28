@@ -6,6 +6,19 @@
 
 <br>
 
+## February 28, 2023
+
+| Activity | Time Spent | Things Learned | Problem Faced |
+|:--------:|:----------:|----------------|---------------|
+| Progress Sheet | 0.6 hrs | <ul><li>Extract total time spent over different topic using Formulas</li><li>Inserting Charts inside google sheets</li></ul> | |
+| Andrew Ng | 1.6 hrs | <ul><li>Vectorization</li><li>NumPy For Vectorization</li><li>Vectors</li><li>Dot Product using NumPy</li><li>Vectorization vs For Loop</li><li>Matrix Indexing & Slicing</li></ul> | |
+| Mid Preparation | Ꝏ | | |
+
+### Goals for Tomorrow
+- Continue Mid & Progress as much as I can.
+
+<br><br><br>
+
 ## February 27, 2023
 
 | Activity | Time Spent | Things Learned | Problem Faced |
