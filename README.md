@@ -1,5 +1,36 @@
 <div align="center">
 
+# Overall Learned
+
+</div>
+
+### Programming
+- Python
+    - Introduction to Python
+    - NumPy
+    - Matplotlib
+    - Pandas
+- Markdown
+
+### Algorithm
+- Supervised Machine Learing
+    - Regression
+        - Linear Regression
+            - For Single Variable (Univariate)
+            - Multiple Features
+    - Classification
+- Unsupervised Machine Learning
+    - Clustering
+    - Anomaly Detection
+    - Dimentionality
+- Gradient Descent
+
+### Projects
+- Student Score Prediction using Linear Regression (Univariate)
+- Rock vs Mine Prediction using Logistic Regression
+
+<div align="center">
+
 # Daily Progress Log
 
 </div>
@@ -172,25 +203,5 @@
 
 <br><br>
 
-## Overall Learned
-
-### Programming
-- Python
-    - Introduction to Python
-    - NumPy
-    - Matplotlib
-    - Pandas
-- Markdown
-
-### Algorithm
-- [Gradient Descent](https://www.youtube.com/watch?v=sDv4f4s2SB8)
-- Linear Regression
-    - For Single Variable (Univariate)
-    - Multiple Features
-
-### Projects
-- Student Score Prediction using Linear Regression (Univariate)
-- Rock vs Mine Prediction using Logistic Regression
-
-### Machine Learning Model Deploying
+### Deployment of Machine Learning Model 
 -
