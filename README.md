@@ -40,10 +40,19 @@
 <ul><li></li><ul>
 <ul><li> [ ] </li></ul>
 
-## February 28, 2023
+## March 4, 2023
 | Activity | Time Spent | Things Learned | Problem Faced |
 |:--------:|:----------:|----------------|---------------|
 
+### Goals for Tomorrow
+-
+
+<br><br><br>
+
+## March 4, 2023
+| Activity | Time Spent | Things Learned | Problem Faced |
+|:--------:|:----------:|----------------|---------------|
+| Andrew Ng | 1.6 hrs | <ul><li>Feature Scaling</li><li>Importance of Feature Scaling</li><li>Divide by Maximum scaling</li><li>Mean Normalization</li><li>Z-Score Normalizaion</li><li>Standard Deviation</li><li>Acceptable Feature value ranges</li><li>Check Gradient Descent for Converge</li><li>Autometic Converge test</li><li>When to Declare Convergence</li><li>Choosing the Learning Rate</li><li>Identify the problems with Gradient Descent</li><li>Debugging Gradient Descent</li><ul> | |
 ### Goals for Tomorrow
 -
 
