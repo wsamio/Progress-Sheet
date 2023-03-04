@@ -65,7 +65,7 @@
 | Machine Learning Project | 2.7 hrs | <ul><li>House Price Prediction part 1</li><li>Missing / null value Checking</li><li>Replacing missing values with Mean</li><li>Gradient Function Implementation</li><li>Gradient Descent Implementation</li><li>Multiple Linear Regression</li><ul> | <ul><li> [ ] Learning Rate issue </li><li> [ ] Predicted price is not even close </li><li> [ ] Accuracy_score function not working </li></ul>|
 
 ### Goals for Tomorrow
--
+- Continue Mid & Progress as much as I can.
 
 <br><br><br>
 
