@@ -48,10 +48,20 @@
 
 <br><br><br>
 
+## March 2, 2023
+| Activity | Time Spent | Things Learned | Problem Faced |
+|:--------:|:----------:|----------------|---------------|
+| Machine Learning Project | 2.7 hrs | <ul><li>House Price Prediction part 1</li><li>Missing / null value Checking</li><li>Replacing missing values with Mean</li><li>Gradient Function Implementation</li><li>Gradient Descent Implementation</li><li>Multiple Linear Regression</li><ul> | |
+
+### Goals for Tomorrow
+-
+
+<br><br><br>
+
 ## March 1, 2023
 | Activity | Time Spent | Things Learned | Problem Faced |
 |:--------:|:----------:|----------------|---------------|
-| Andrew Ng | 2.5 hrs | <ul><li>Reminiscing previous Labs & Quiz</li><li>Gradient Descent for more than one Features</li><li>An alternative to Gradient Descent, Normal Euation Method</li><li>Cost Computing for Multiple Variables</li><li>Implementation of Multiple Linear Regression</li><ul>
+| Andrew Ng | 2.5 hrs | <ul><li>Reminiscing previous Labs & Quiz</li><li>Gradient Descent for more than one Features</li><li>An alternative to Gradient Descent, Normal Euation Method</li><li>Cost Computing for Multiple Variables</li><li>Implementation of Multiple Linear Regression</li><ul> | |
 | Mid Preparation | Ꝏ | | |
 
 ### Goals for Tomorrow
