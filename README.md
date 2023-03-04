@@ -76,7 +76,7 @@
 | Mid Preparation | Ꝏ | | |
 
 ### Goals for Tomorrow
--
+- Continue Mid & Progress as much as I can.
 
 <br><br><br>
 
