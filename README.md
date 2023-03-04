@@ -38,6 +38,7 @@
 <br>
 
 <ul><li></li><ul>
+<ul><li> [ ] </li></ul>
 
 ## February 28, 2023
 | Activity | Time Spent | Things Learned | Problem Faced |
@@ -61,7 +62,7 @@
 ## March 1, 2023
 | Activity | Time Spent | Things Learned | Problem Faced |
 |:--------:|:----------:|----------------|---------------|
-| Andrew Ng | 2.5 hrs | <ul><li>Reminiscing previous Labs & Quiz</li><li>Gradient Descent for more than one Features</li><li>An alternative to Gradient Descent, Normal Euation Method</li><li>Cost Computing for Multiple Variables</li><li>Implementation of Multiple Linear Regression</li><ul> | |
+| Andrew Ng | 2.5 hrs | <ul><li>Reminiscing previous Labs & Quiz</li><li>Gradient Descent for more than one Features</li><li>An alternative to Gradient Descent, Normal Euation Method</li><li>Cost Computing for Multiple Variables</li><li>Implementation of Multiple Linear Regression</li><ul> | <ul><li> [ ] Learning Rate issue </li><li> [ ] Predicted price is not even close </li><li> [ ] Accuracy_score function not working </li></ul> |
 | Mid Preparation | Ꝏ | | |
 
 ### Goals for Tomorrow
