@@ -37,6 +37,22 @@
 
 <br>
 
+<!---
+
+<ul><li></li><ul>
+<ul><li> [ ] </li></ul>
+
+## March 4, 2023
+| Activity | Time Spent | Things Learned | Problem Faced |
+|:--------:|:----------:|----------------|---------------|
+
+### Goals for Tomorrow
+-
+
+<br><br><br>
+
+-->
+
 ## March 4, 2023
 | Activity | Time Spent | Things Learned | Problem Faced |
 |:--------:|:----------:|----------------|---------------|
