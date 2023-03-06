@@ -52,6 +52,16 @@
 <br><br><br>
 
 -->
+## March 4, 2023
+| Activity | Time Spent | Things Learned | Problem Faced |
+|:--------:|:----------:|----------------|---------------|
+| | | | |
+| Mid Preparation | Ꝏ | | |
+
+### Goals for Tomorrow
+-
+
+<br><br><br>
 
 ## March 5, 2023
 | Activity | Time Spent | Things Learned | Problem Faced |
