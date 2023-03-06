@@ -55,7 +55,7 @@
 ## March 4, 2023
 | Activity | Time Spent | Things Learned | Problem Faced |
 |:--------:|:----------:|----------------|---------------|
-| Machine Learing Project | 1.8 hrs | <ul><li>House Price Prediction 2</li><li>Normalization by dividing Max on Train & Test data</li><li>Dropping (deleting) data rows consisting null values</li><li>Learning Rate tweaking for best outcome</li><li>Plotting the convergence of Cost Function</li><li>Cost computing on Test data</li><li></li>Debugging Multiple Linear Regression<ul> | |
+| Machine Learing Project | 1.8 hrs | <ul><li>House Price Prediction 2</li><li>Normalization by dividing Max on Train & Test data</li><li>Dropping (deleting) data rows consisting null values</li><li>Learning Rate tweaking for best outcome</li><li>Plotting the convergence of Cost Function</li><li>Cost computing on Test data</li><li></li>Debugging Multiple Linear Regression<ul> | <ul><li> [ ] </li><li> [ ] </li><li> [ ] </li></ul> |
 | Mid Preparation | Ꝏ | | |
 
 ### Goals for Tomorrow
