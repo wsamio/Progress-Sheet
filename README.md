@@ -53,6 +53,16 @@
 
 -->
 
+## March 5, 2023
+| Activity | Time Spent | Things Learned | Problem Faced |
+|:--------:|:----------:|----------------|---------------|
+| Mid Preparation | Ꝏ | | |
+
+### Goals for Tomorrow
+- Getting over with the exam and resume the project
+
+<br><br><br>
+
 ## March 4, 2023
 | Activity | Time Spent | Things Learned | Problem Faced |
 |:--------:|:----------:|----------------|---------------|
