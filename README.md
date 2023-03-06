@@ -55,7 +55,7 @@
 ## March 4, 2023
 | Activity | Time Spent | Things Learned | Problem Faced |
 |:--------:|:----------:|----------------|---------------|
-| | | | |
+| Machine Learing Project | 1.8 hrs | | |
 | Mid Preparation | Ꝏ | | |
 
 ### Goals for Tomorrow
