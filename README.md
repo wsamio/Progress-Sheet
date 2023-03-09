@@ -65,7 +65,7 @@
 ## March 8, 2023
 | Activity | Time Spent | Things Learned | Problem Faced |
 |:--------:|:----------:|----------------|---------------|
-| Machine Learning Project | 4.3 | <ul><li>House Price Preditction 3</li><li>Feature Scaling with Z-score Normalization</li><li>Relation between Features and Targets</li><li>Linear Regression using Scikit-Learn</li><li>Cost comparison between Scratch implementation vs Sk-learn's LinearRegression model</li><ul> | |
+| Machine Learning Project | 4.3 | <ul><li>House Price Preditction 3</li><li>Feature Scaling with Z-score Normalization</li><li>Relation between Features and Targets</li><li>Linear Regression using Scikit-Learn</li><li>Cost comparison between Scratch implementation vs Sk-learn's LinearRegression model</li><ul> | <ul><li> [ ] Implemented function and Scikit-Learn's Linear model's overall cost is pretty similar. But both have huge total cost. </li></ul>|
 | Andrew Ng | 1.5 | <ul><li>Feature Engineering</li><li>Using Intution to design new features out of originals</li><li>Polynomial Regression</li><li>Importance of feature scaling in Feature Engineering</li><ul> | |
 
 ### Goals for Tomorrow
