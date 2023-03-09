@@ -56,7 +56,7 @@
 ## March 4, 2023
 | Activity | Time Spent | Things Learned | Problem Faced |
 |:--------:|:----------:|----------------|---------------|
-| Andrew Ng | 2.6 | 
+| Andrew Ng | 2.6 | <ul><li></li><ul> | 
 ### Goals for Tomorrow
 -
 
@@ -65,8 +65,8 @@
 ## March 8, 2023
 | Activity | Time Spent | Things Learned | Problem Faced |
 |:--------:|:----------:|----------------|---------------|
-| Machine Learning Project | 4.3 | <ul><li>House Price Preditction 3</li><li>Feature Scaling with Z-score Normalization</li><li>Relation between Features and Targets</li><li>Linear Regression using Scikit-Learn</li><li>Cost comparison between Scratch implementation vs Sk-learn's LinearRegression model</li><ul>
-| Andrew Ng | 1.5 | <ul><li>Feature Engineering</li><li>Using Intution to design new features out of originals</li><li>Polynomial Regression</li><li>Importance of feature scaling in Feature Engineering</li><ul>
+| Machine Learning Project | 4.3 | <ul><li>House Price Preditction 3</li><li>Feature Scaling with Z-score Normalization</li><li>Relation between Features and Targets</li><li>Linear Regression using Scikit-Learn</li><li>Cost comparison between Scratch implementation vs Sk-learn's LinearRegression model</li><ul> | |
+| Andrew Ng | 1.5 | <ul><li>Feature Engineering</li><li>Using Intution to design new features out of originals</li><li>Polynomial Regression</li><li>Importance of feature scaling in Feature Engineering</li><ul> | |
 
 ### Goals for Tomorrow
 - Start the week 3 of Andrew Ng
