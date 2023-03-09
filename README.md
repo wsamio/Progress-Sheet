@@ -52,14 +52,24 @@
 <br><br><br>
 
 -->
+## March 7, 2023
+| Activity | Time Spent | Things Learned | Problem Faced |
+|:--------:|:----------:|----------------|---------------|
+| Andrew Ng | 1.5 | <ul><li>Run Gradient Descent on a data set with multiple Features</li><li>Explore the impact of the Learning Rate (alpha)</li><li>Feature Scaling using Z-score Normalization</li><ul> | |
+
+### Goals for Tomorrow
+- Complete the House Price Prediction project and adding context to it
+
+<br><br><br>
+
 ## March 6, 2023
 | Activity | Time Spent | Things Learned | Problem Faced |
 |:--------:|:----------:|----------------|---------------|
-| Machine Learing Project | 1.8 hrs | <ul><li>House Price Prediction 2</li><li>Normalization by dividing Max on Train & Test data</li><li>Dropping (deleting) data rows consisting null values</li><li>Learning Rate tweaking for best outcome</li><li>Plotting the convergence of Cost Function</li><li>Cost computing on Test data</li><li></li>Debugging Multiple Linear Regression<ul> | <ul><li> [ ] Normalized both inputs and targets to reduce the cost </li></ul> |
+| Machine Learing Project | 1.8 hrs | <ul><li>House Price Prediction 2</li><li>Normalization by dividing Max on Train & Test data</li><li>Dropping (deleting) data rows consisting null values</li><li>Learning Rate tweaking for best outcome</li><li>Plotting the convergence of Cost Function</li><li>Cost computing on Test data</li><li></li>Debugging Multiple Linear Regression<ul> | <ul><li> [x] Normalized both inputs and targets to reduce the cost </li></ul> |
 | Mid Preparation | Ꝏ | | |
 
 ### Goals for Tomorrow
--
+- Getting over with the exam and resume the projec
 
 <br><br><br>
 
