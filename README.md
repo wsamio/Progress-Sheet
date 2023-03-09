@@ -53,10 +53,10 @@
 
 -->
 
-## March 4, 2023
+## March 9, 2023
 | Activity | Time Spent | Things Learned | Problem Faced |
 |:--------:|:----------:|----------------|---------------|
-| Andrew Ng | 2.6 | <ul><li></li><ul> | 
+| Andrew Ng | 2.6 | <ul><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><ul> | |
 ### Goals for Tomorrow
 -
 
