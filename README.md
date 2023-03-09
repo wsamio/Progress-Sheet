@@ -52,6 +52,16 @@
 <br><br><br>
 
 -->
+
+## March 4, 2023
+| Activity | Time Spent | Things Learned | Problem Faced |
+|:--------:|:----------:|----------------|---------------|
+| Andrew Ng | 2.6 | 
+### Goals for Tomorrow
+-
+
+<br><br><br>
+
 ## March 8, 2023
 | Activity | Time Spent | Things Learned | Problem Faced |
 |:--------:|:----------:|----------------|---------------|
