@@ -56,9 +56,12 @@
 ## March 9, 2023
 | Activity | Time Spent | Things Learned | Problem Faced |
 |:--------:|:----------:|----------------|---------------|
-| Andrew Ng | 2.6 | <ul><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><ul> | |
+| Andrew Ng | 2.6 | <ul><li>Assignment on implementating Linear Regression (univariate)</li><li>Introduction to Classification</li><li>Binary Classification</li><li>Sigmoid Function / Logistic Function</li><li>Logistic Regression</li><li>Interpretation of Logistic Regression</li><li>Implementating Logistic Regression Model using Linear Regressin & Sigmoid Function</li><li>np_c function</li><ul> | |
 ### Goals for Tomorrow
--
+- Wake up at 7 am
+- Do more activities
+- Looking for more Projects to do
+- Explore how Chess can be played using ML
 
 <br><br><br>
 
