@@ -55,7 +55,7 @@
 ## March 10, 2023
 | Activity | Time Spent | Things Learned | Problem Faced |
 |:--------:|:----------:|----------------|---------------|
-
+| Andrew Ng | 1.4 hrs | 
 ### Goals for Tomorrow
 -
 
@@ -64,7 +64,7 @@
 ## March 9, 2023
 | Activity | Time Spent | Things Learned | Problem Faced |
 |:--------:|:----------:|----------------|---------------|
-| Andrew Ng | 2.6 | <ul><li>Assignment on implementating Linear Regression (univariate)</li><li>Introduction to Classification</li><li>Binary Classification</li><li>Sigmoid Function / Logistic Function</li><li>Logistic Regression</li><li>Interpretation of Logistic Regression</li><li>Implementating Logistic Regression Model using Linear Regressin & Sigmoid Function</li><li>np_c function</li><ul> | |
+| Andrew Ng | 2.6 hrs | <ul><li>Assignment on implementating Linear Regression (univariate)</li><li>Introduction to Classification</li><li>Binary Classification</li><li>Sigmoid Function / Logistic Function</li><li>Logistic Regression</li><li>Interpretation of Logistic Regression</li><li>Implementating Logistic Regression Model using Linear Regressin & Sigmoid Function</li><li>np_c function</li><ul> | |
 ### Goals for Tomorrow
 - Wake up at 7 am
 - Do more activities
@@ -76,8 +76,8 @@
 ## March 8, 2023
 | Activity | Time Spent | Things Learned | Problem Faced |
 |:--------:|:----------:|----------------|---------------|
-| Machine Learning Project | 4.3 | <ul><li>House Price Preditction 3</li><li>Feature Scaling with Z-score Normalization</li><li>Relation between Features and Targets</li><li>Linear Regression using Scikit-Learn</li><li>Cost comparison between Scratch implementation vs Sk-learn's LinearRegression model</li><ul> | <ul><li> [ ] Implemented function and Scikit-Learn's Linear model's overall cost is pretty similar. But both have huge total cost. </li></ul>|
-| Andrew Ng | 1.5 | <ul><li>Feature Engineering</li><li>Using Intution to design new features out of originals</li><li>Polynomial Regression</li><li>Importance of feature scaling in Feature Engineering</li><ul> | <ul><li> [ ] Feature Engineering Lab implementation went over my head </li></ul>|
+| Machine Learning Project | 4.3 hrs | <ul><li>House Price Preditction 3</li><li>Feature Scaling with Z-score Normalization</li><li>Relation between Features and Targets</li><li>Linear Regression using Scikit-Learn</li><li>Cost comparison between Scratch implementation vs Sk-learn's LinearRegression model</li><ul> | <ul><li> [ ] Implemented function and Scikit-Learn's Linear model's overall cost is pretty similar. But both have huge total cost. </li></ul>|
+| Andrew Ng | 1.5 hrs | <ul><li>Feature Engineering</li><li>Using Intution to design new features out of originals</li><li>Polynomial Regression</li><li>Importance of feature scaling in Feature Engineering</li><ul> | <ul><li> [ ] Feature Engineering Lab implementation went over my head </li></ul>|
 
 ### Goals for Tomorrow
 - Start the week 3 of Andrew Ng
@@ -88,7 +88,7 @@
 ## March 7, 2023
 | Activity | Time Spent | Things Learned | Problem Faced |
 |:--------:|:----------:|----------------|---------------|
-| Andrew Ng | 1.5 | <ul><li>Run Gradient Descent on a data set with multiple Features</li><li>Explore the impact of the Learning Rate (alpha)</li><li>Feature Scaling using Z-score Normalization</li><ul> | |
+| Andrew Ng | 1.5 hrs | <ul><li>Run Gradient Descent on a data set with multiple Features</li><li>Explore the impact of the Learning Rate (alpha)</li><li>Feature Scaling using Z-score Normalization</li><ul> | |
 
 ### Goals for Tomorrow
 - Complete the House Price Prediction project and adding context to it
