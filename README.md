@@ -55,9 +55,11 @@
 ## March 10, 2023
 | Activity | Time Spent | Things Learned | Problem Faced |
 |:--------:|:----------:|----------------|---------------|
-| Andrew Ng | 1.4 hrs | 
+| Andrew Ng | 1.4 hrs | <ul><li>Decision Boundary</li><li>Threshold</li><li>Decision Boundary Line</li><li>Non Linear Decision Boundary</li><li>Plot the decision boundary for a logistic regression model</li><ul> | |
+
 ### Goals for Tomorrow
--
+- Start doing Student Performance project
+- Follow mentors guideline
 
 <br><br><br>
 
@@ -65,6 +67,7 @@
 | Activity | Time Spent | Things Learned | Problem Faced |
 |:--------:|:----------:|----------------|---------------|
 | Andrew Ng | 2.6 hrs | <ul><li>Assignment on implementating Linear Regression (univariate)</li><li>Introduction to Classification</li><li>Binary Classification</li><li>Sigmoid Function / Logistic Function</li><li>Logistic Regression</li><li>Interpretation of Logistic Regression</li><li>Implementating Logistic Regression Model using Linear Regressin & Sigmoid Function</li><li>np_c function</li><ul> | |
+
 ### Goals for Tomorrow
 - Wake up at 7 am
 - Do more activities
