@@ -52,6 +52,14 @@
 <br><br><br>
 
 -->
+## March 10, 2023
+| Activity | Time Spent | Things Learned | Problem Faced |
+|:--------:|:----------:|----------------|---------------|
+
+### Goals for Tomorrow
+-
+
+<br><br><br>
 
 ## March 9, 2023
 | Activity | Time Spent | Things Learned | Problem Faced |
