@@ -19,6 +19,7 @@
             - For Single Variable (Univariate)
             - Multiple Features
     - Classification
+        - Logistic Regression
 - Unsupervised Machine Learning
     - Clustering
     - Anomaly Detection
