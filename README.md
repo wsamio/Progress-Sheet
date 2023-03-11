@@ -53,6 +53,16 @@
 <br><br><br>
 
 -->
+## March 11, 2023
+| Activity | Time Spent | Things Learned | Problem Faced |
+|:--------:|:----------:|----------------|---------------|
+| Andrew Ng | 1.3 hrs | <ul><li>Cost Function for Logistic Regression</li><li>Logistic Loss Function</li><li>Reason the squared error loss is not appropriate for logistic regression</li><ul> | <ul><li> [ ] Logistic loss function </li></ul> |
+### Goals for Tomorrow
+- Spend at least 3 hrs on problem solving
+- Start student performance project
+
+<br><br><br>
+
 ## March 10, 2023
 | Activity | Time Spent | Things Learned | Problem Faced |
 |:--------:|:----------:|----------------|---------------|
