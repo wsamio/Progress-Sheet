@@ -53,13 +53,22 @@
 <br><br><br>
 
 -->
+## March 13, 2023
+| Activity | Time Spent | Things Learned | Problem Faced |
+|:--------:|:----------:|----------------|---------------|
+| Problem Solving | 3.4 hrs | 3 Problems (Codeforces) | |
+
+### Goals for Tomorrow
+- Start Student Performance Project
+- Finish 3 Andrw Ng videos
+
 ## March 12, 2023
 | Activity | Time Spent | Things Learned | Problem Faced |
 |:--------:|:----------:|----------------|---------------|
 | Problem Solving | 3.2 hrs | 4 Problems (Codeforces) | |
 
 ### Goals for Tomorrow
-- Start Project
+- Start Student Performance Project
 - Problem solving for at least 3 hrs
 - Finish 3 Andrw Ng videos
 
