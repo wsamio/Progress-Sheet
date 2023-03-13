@@ -56,7 +56,7 @@
 ## March 13, 2023
 | Activity | Time Spent | Things Learned | Problem Faced |
 |:--------:|:----------:|----------------|---------------|
-| Problem Solving | 3.4 hrs | 3 Problems (Codeforces) | |
+| Problem Solving | 3.4 hrs | <ul><li> 3 Problems (Codeforces) </li><ul> | |
 
 ### Goals for Tomorrow
 - Start Student Performance Project
@@ -65,7 +65,7 @@
 ## March 12, 2023
 | Activity | Time Spent | Things Learned | Problem Faced |
 |:--------:|:----------:|----------------|---------------|
-| Problem Solving | 3.2 hrs | 4 Problems (Codeforces) | |
+| Problem Solving | 3.2 hrs | <ul><li> 4 Problems (Codeforces) </li><ul> | |
 
 ### Goals for Tomorrow
 - Start Student Performance Project
