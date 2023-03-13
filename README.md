@@ -61,7 +61,7 @@
 
 ### Goals for Tomorrow
 - Start Student Performance Project
-- Finish 3 Andrw Ng videos
+- Finish 3 Andrew Ng videos
 
 <br><br><br>
 
@@ -73,7 +73,7 @@
 ### Goals for Tomorrow
 - Start Student Performance Project
 - Problem solving for at least 3 hrs
-- Finish 3 Andrw Ng videos
+- Finish 3 Andrew Ng videos
 
 <br><br><br>
 
