@@ -30,14 +30,6 @@
 - Student Score Prediction using Linear Regression (Univariate)
 - Rock vs Mine Prediction using Logistic Regression
 
-<div align="center">
-
-# Daily Progress Log
-
-</div>
-
-<br>
-
 <!---
 
 <ul><li></li><ul>
@@ -53,6 +45,15 @@
 <br><br><br>
 
 -->
+
+<br>
+<div align="center">
+
+# Daily Progress Log
+
+</div>
+<br>
+
 ## March 13, 2023
 | Activity | Time Spent | Things Learned | Problem Faced |
 |:--------:|:----------:|----------------|---------------|
