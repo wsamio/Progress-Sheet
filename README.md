@@ -63,6 +63,8 @@
 - Start Student Performance Project
 - Finish 3 Andrw Ng videos
 
+<br><br><br>
+
 ## March 12, 2023
 | Activity | Time Spent | Things Learned | Problem Faced |
 |:--------:|:----------:|----------------|---------------|
