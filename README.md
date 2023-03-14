@@ -23,11 +23,12 @@
 </div>
 <br>
 
-## March 4, 2023
+## March 14, 2023
 | Activity | Time Spent | Things Learned | Problem Faced |
 |:--------:|:----------:|----------------|---------------|
 | Problem Solving | 3 hrs | <ul><li>Reminiscing Stl</li><li>Time Complexity</li><li>Comparator Sort</li><li>2 Problems from Atcoder</li><li>1 Problem from Codeforces</li></ul> | |
 | Andrew Ng | 0.72 hrs | <ul><li>Simplified Loss Function for Logistic Regression</li><li>Simplified Cost Function</li><li>Implementation of Cost & Loss Function</li></ul> | |
+
 ### Goals for Tomorrow
 - Start Student Performance Project ASAP
 - Stop being a lazy cunt
