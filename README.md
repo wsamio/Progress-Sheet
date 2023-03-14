@@ -19,6 +19,7 @@
 
 # Daily Progress Log
 
+
 </div>
 <br>
 
