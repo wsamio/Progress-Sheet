@@ -1,6 +1,6 @@
 <!---
 
-<ul><li></li><ul>
+<ul><li></li></ul>
 <ul><li> [ ] </li></ul>
 
 ## March 4, 2023
@@ -23,12 +23,21 @@
 </div>
 <br>
 
+## March 4, 2023
+| Activity | Time Spent | Things Learned | Problem Faced |
+|:--------:|:----------:|----------------|---------------|
+| Problem Solving | 3 hrs | <ul><li>Reminiscing Stl</li><li>Time Complexity</li><li>Comparator Sort</li><li>2 Problems from Atcoder</li><li>1 Problem from Codeforces</li></ul> | |
+| Andrew Ng | 0.72 hrs | <ul><li>Simplified Loss Function for Logistic Regression</li><li>Simplified Cost Function</li><li>Implementation of Cost & Loss Function</li></ul> | |
+### Goals for Tomorrow
+- Start Student Performance Project ASAP
+- Stop being a lazy cunt
 
+<br><br><br>
 
 ## March 13, 2023
 | Activity | Time Spent | Things Learned | Problem Faced |
 |:--------:|:----------:|----------------|---------------|
-| Problem Solving | 3.4 hrs | <ul><li> 3 Problems (Codeforces) </li><ul> | |
+| Problem Solving | 3.4 hrs | <ul><li> 3 Problems from Codeforces </li><ul> | |
 
 ### Goals for Tomorrow
 - Start Student Performance Project
@@ -39,7 +48,7 @@
 ## March 12, 2023
 | Activity | Time Spent | Things Learned | Problem Faced |
 |:--------:|:----------:|----------------|---------------|
-| Problem Solving | 3.2 hrs | <ul><li> 4 Problems (Codeforces) </li><ul> | |
+| Problem Solving | 3.2 hrs | <ul><li> 4 Problems from Codeforces </li><ul> | |
 
 ### Goals for Tomorrow
 - Start Student Performance Project
