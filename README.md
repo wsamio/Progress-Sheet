@@ -1,35 +1,3 @@
-<div align="center">
-
-# Overall Learned
-
-</div>
-
-### Programming
-- Python
-    - Introduction to Python
-    - NumPy
-    - Matplotlib
-    - Pandas
-- Markdown
-
-### Algorithm
-- Supervised Machine Learing
-    - Regression
-        - Linear Regression
-            - For Single Variable (Univariate)
-            - Multiple Features
-    - Classification
-        - Logistic Regression
-- Unsupervised Machine Learning
-    - Clustering
-    - Anomaly Detection
-    - Dimentionality
-- Gradient Descent
-
-### Projects
-- Student Score Prediction using Linear Regression (Univariate)
-- Rock vs Mine Prediction using Logistic Regression
-
 <!---
 
 <ul><li></li><ul>
@@ -53,6 +21,8 @@
 
 </div>
 <br>
+
+
 
 ## March 13, 2023
 | Activity | Time Spent | Things Learned | Problem Faced |
@@ -361,6 +331,38 @@
 - Implement linear regression in Jupyter Notebook
 
 <br><br>
+
+<div align="center">
+
+# Overall Learned
+
+</div>
+
+### Programming
+- Python
+    - Introduction to Python
+    - NumPy
+    - Matplotlib
+    - Pandas
+- Markdown
+
+### Algorithm
+- Supervised Machine Learing
+    - Regression
+        - Linear Regression
+            - For Single Variable (Univariate)
+            - Multiple Features
+    - Classification
+        - Logistic Regression
+- Unsupervised Machine Learning
+    - Clustering
+    - Anomaly Detection
+    - Dimentionality
+- Gradient Descent
+
+### Projects
+- Student Score Prediction using Linear Regression (Univariate)
+- Rock vs Mine Prediction using Logistic Regression
 
 ### Deployment of Machine Learning Model 
 -
