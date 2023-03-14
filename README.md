@@ -18,7 +18,7 @@
 <div align="center">
 
 # Daily Progress Log
-
+![chart](https://user-images.githubusercontent.com/125558428/225129290-9226c954-df7f-4088-8b61-c52043eefdd7.svg)
 
 </div>
 <br>
