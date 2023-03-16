@@ -23,6 +23,7 @@
 </div>
 <br>
 
+
 ## March 14, 2023
 | Activity | Time Spent | Things Learned | Problem Faced |
 |:--------:|:----------:|----------------|---------------|
